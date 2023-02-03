@@ -1,1 +1,2 @@
-# Gerador_de_senha
+#Um site que gera senhas do tamanho determinado, usando javascript
+#
